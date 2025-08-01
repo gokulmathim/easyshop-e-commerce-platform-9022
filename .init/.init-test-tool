@@ -1,0 +1,4 @@
+{
+    "command": "npm run build",
+    "working_directory": "/home/kavia/workspace/code-generation/easyshop-e-commerce-platform-9022/nextjs_frontend"
+}
